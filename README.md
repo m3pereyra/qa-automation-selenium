@@ -21,7 +21,9 @@ Automation framework developed using Java, Selenium WebDriver, JUnit and Maven.
 ## ▶️ How to Run
 
 1. Clone repository
-2. Run:
+  git clone https://github.com/m3pereyra/qa-automation-selenium.git
+2. Navigate to project folder: cd qa-automation-selenium
+3. Run the tests: mvn clean test
 
 
 ## 🏗 Project Structure
